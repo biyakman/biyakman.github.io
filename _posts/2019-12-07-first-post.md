@@ -1,7 +1,7 @@
 ---
 title: "Imitation learning for language generation from unaligned data"
 date: "2019-12-07"
-categories: jekyll update
+categories: NLG Imitation_learning
 ---
 
 ##### 2019 NIPS tutorial 
