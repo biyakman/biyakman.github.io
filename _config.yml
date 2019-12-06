@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Deep Learning Brief Survey"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "biyak man"
+name                     : "biyakman"
 description              : "May contain a leap of logic"
 url                      : "https://biyakman/biyakman.github.io"
 baseurl                  : ""
@@ -132,7 +132,7 @@ author:
   name             : "Biyakman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "논리의 비약이 심함"
-  location         : "서울""
+  location         : "서울"
   email            :
   links:
     - label: "Email"
