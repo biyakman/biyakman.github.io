@@ -4,8 +4,7 @@ date: "2019-12-07"
 categories: NLG Imitation_learning
 ---
 
-##### 2019 NIPS tutorial 
-
+##### 2019 NIPS tutorial  [눈문바로가기](https://www.aclweb.org/anthology/C16-1105.pdf)
 
 * 목적 
 
@@ -22,7 +21,7 @@ categories: NLG Imitation_learning
 
 * 제안 기법의 장점
 
-    * LOLS는 greedy 방식으로 추론을 하기 떄문에 structured prediction이 감소
+    * LOLS는 greedy 방식으로 추론을 하기 때문에 structured prediction이 감소
     * non-decomposable Loss 함수 사용 가능 -> BLEAU, Rougue에 적합
     * 현재 예측 대상인 단어와 후에 예측할 단어들 간의 interactions 학습 가능
 
