@@ -67,6 +67,6 @@ categories: nips 2019 generative_models
 
 [ ] Residual Flows for Invertible Generative Modeling
 
-[ ] Time-series Generative Adversarial Networks
+[ ] [Time-series Generative Adversarial Networks]()
 
 [ ] Twin Auxilary Classifiers GAN
