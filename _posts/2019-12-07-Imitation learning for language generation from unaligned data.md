@@ -25,9 +25,6 @@ categories: NLG Imitation_learning
     * non-decomposable Loss 함수 사용 가능 -> BLEAU, Rougue에 적합
     * 현재 예측 대상인 단어와 후에 예측할 단어들 간의 interactions 학습 가능
 
-    
-
-
-
 ###### 모르는 키워드
-* ###### meaning representation, aligned training data, phrase template, surfaec realization, structured prediction
+
+* ###### meaning representation, aligned training data, phrase template, surface realization, structured prediction
